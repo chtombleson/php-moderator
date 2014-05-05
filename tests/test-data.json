@@ -1,0 +1,7 @@
+{
+    "pass": "Hi, this is an good message and has no malicious intent.",
+    "bad_words": "Fuck you and this bull shit.",
+    "spam_words": "#1 Nigerian bank, make $$$.",
+    "spam_and_bad_words": "Fuck you and this bull shit. #1 Nigerian bank, make $$$.",
+    "spam_email": "Congratulations! Get your FREE* $1500 Pottery Barn Gift Card! Please see here to claim your prize! Shop online for hundreds of products including furniture, bedding & bath, and accessories"
+}
