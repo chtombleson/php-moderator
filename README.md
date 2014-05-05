@@ -30,6 +30,12 @@ Install using composer
         ehco "Message contains the following number of words: " . str_word_count($message);
     }
 
+## Tests
+
+Tests are run by PHPUnit
+
+    phpunit tests/ModeratorTest.php
+
 ## License
 
 See LICENSE
