@@ -1,5 +1,5 @@
 <?php
-require(dirname(__DIR__) . '/src/PHPModerator.php');
+require(dirname(__DIR__) . '/src/chtombleson/PHPModerator.php');
 use chtombleson\PHPModerator;
 
 class ModeratorTest extends PHPUnit_Framework_TestCase
