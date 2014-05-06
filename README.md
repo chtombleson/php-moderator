@@ -1,4 +1,5 @@
 # PHPModerator
+[![Build Status](https://travis-ci.org/chtombleson/php-moderator.png)](https://travis-ci.org/chtombleson/php-moderator)
 
 Static text analysis for inapporiate content.
 
